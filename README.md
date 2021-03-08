@@ -3,7 +3,7 @@ An important part of business is planning for the future and ensuring that the c
 Some businesses do this really well and last for hundreds of years. 
 In this project I explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to.
 
-##Project Tasks
+<h3>Project Tasks</h3>
 1. The oldest business in the world
 2. How many businesses were founded before 1000?
 3. Which businesses were founded before 1000?
@@ -15,4 +15,4 @@ In this project I explored data from BusinessFinancing.co.uk on the world's olde
 9. Filtering counts by continent and category
 
 
-Project Idea & Guidance : DataCamp
+<h4>Project Idea & Guidance : DataCamp</h4>
